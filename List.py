@@ -12,7 +12,7 @@ word[:2] + word[3:]
 
 len(word)
 
-#klen =length
+#len =length
 
 square = "Square"
 len(square) 

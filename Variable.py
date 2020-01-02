@@ -1,4 +1,5 @@
 #27.12.2019
+
 +  _  *  /
 %
 **
@@ -34,7 +35,7 @@
  weight = 20
  height = 5 * 9
  vol = weight * height
-vol
+ vol
 
 sale = 300000
 tax = 5/100
@@ -64,6 +65,6 @@ Usage: thingy
 
 3 * 'A'
 2 * 'BC' + 'DE'
-30 * 'GH' + 3
+10 * 'GH' + 3
 
 >>> List
