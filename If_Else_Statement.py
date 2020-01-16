@@ -67,21 +67,18 @@ x is grater than y
 
 >>> x = int(input("Please enter exam mark:"))
 
-Please enter exam mark:40
-
->>> if x < 100 & x >= 90:
-...     print("A")
-... elif x < 89 & x >= 70:
-...     print("B")
-... elif x < 69 & x >= 60:
-...     print("C")
-... elif x < 59 & x >= 40:
-...     print("D")
-... else:
-...     print("Fail")
-... 
-Fail
->>> 
+if x < 40 :
+ 	print("Fail")
+elif x < 60 :
+	print("D")
+elif x < 70 :
+    print("C")	
+elif x < 80 :
+    print("B")    
+elif x <= 100 :
+	print("A")
+else:
+    print("Error")	
 
 
 #And is logical operator
