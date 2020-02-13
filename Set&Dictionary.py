@@ -41,7 +41,7 @@ fruits
 fruits.update("grape")
 fruits
 
-fruits.remove("banana")
+fruits.remove("-")
 fruits
 
 fruits.discard("kiwi")
